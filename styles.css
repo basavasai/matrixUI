@@ -1,0 +1,46 @@
+.container {
+    border: 1px solid gray;
+    width: 404px;
+    height: 404px;
+}
+
+.box {
+  float: left;
+  width: 100px;
+  height: 100px;
+  text-align: center;
+  vertical-align: middle;
+  font-size: 20px;
+  border-right: 1px solid gray;
+  border-bottom: 1px solid gray;
+  position: relative;
+}
+
+
+#traverse {
+    font-size: 20px;
+    width: 200px;
+    height: 50px;
+    padding: 5px;
+    border: 2px solid grey;
+    text-align: center;
+
+}
+
+.buttonContainer {
+    margin-top: 20px;
+
+}
+
+#output {
+    margin-top: 20px;
+    font-size: 30px;
+}
+
+
+
+
+
+
+
+
